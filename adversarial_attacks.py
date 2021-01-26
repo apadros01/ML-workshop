@@ -1,4 +1,5 @@
 import time
+import copy
 import torch.nn.functional as F
 from torch.autograd.gradcheck import zero_gradients
 
